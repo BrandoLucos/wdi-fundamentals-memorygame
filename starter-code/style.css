@@ -45,7 +45,7 @@ h1 h2 p footer {
 	
 }
 
-.board {
+#game-board {
 	height: 50%;
 	width: 50%;
 	display: inline-block;
